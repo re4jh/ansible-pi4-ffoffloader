@@ -16,6 +16,7 @@
       - vlan
       - git
       - bc
+      - python3-pip
       - tshark
       - tcpdump
       - iotop
